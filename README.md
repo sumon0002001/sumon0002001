@@ -1,22 +1,24 @@
-### Hi there 👋
-Rawshan-@Sumon0002009
-Hi, I'm Rawshan-a remote software developer specialized in fullstack developer. I love coding. I love playing Cricket. I worked on different projects in different companies. I have some projects here in Github. Sometimes I have fun making javascript games. 
+## Welcome to my GitHub repo!👋  
 
-My values
-💖 Safety and trust
-🌟 Expression as authentic self
-🍏 Beginner's mindset and curiosity
-🙌 Shared norms
-🚀 Elevate the underrepresented
+Here, you can find my solo projects as well as collaborative projects.
 
-How I work
-My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
+ - I am Mir Rawshan Ali. I am a Software Deeveloper.
+ - I have a degree in Bachelor of Science in Software Development 🎓.
+ 
+   
+ -🖥️ Experienced in:
 
-Get in touch
-Twitter: https://twitter.com/Sumon0002009
-Facebook:https://www.facebook.com/sumon000
-Linkedin:https://www.linkedin.com/in/mir-rawshan-ali-27b6a5198/
+       Front-End: React | Redux-tulkit | HTML5 | CSS3 | Bootstrap | Javascript | Typescript | Jquery
+       Back-End: Ruby | RoR | Java | Nodejs 
+       Databasw: PostgreSQL | SqlLite | MySQL
+      
+      
+      
+       
+-🔭 - Currently, I am a student in Microverse to improve my skills while developing projects in Pair Programming with developers from all over the globe while working with them 🌟🌟.
 
-  
+-👀 I’m looking for an opportunity as a Full-Stack Software Developer l as a remote opportunity so if you are looking for someone, let me know!.🙋
 
-
+-📫 How to reach me: ✉️ <a href="mailto:sumon0002001@gmail.com?subject=Hello Rawshan!">Email</a>  |  💼 [LinkedIn](https://www.linkedin.com/in/mir-rawshan-ali-27b6a5198/)
+     
+-✌🏼 Thanks for reading!   
