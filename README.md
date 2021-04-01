@@ -8,7 +8,7 @@ Here, you can find my solo projects as well as collaborative projects.
    
  -🖥️ Experienced in:
 
-       Front-End: React | Redux-tulkit | HTML5 | CSS3 | Bootstrap | Javascript | Typescript | Jquery
+       Front-End: React | Redux-toolkit | HTML5 | CSS3 | Bootstrap | Javascript | Typescript | Jquery
        Back-End: Ruby | RoR | Java | Nodejs 
        Databasw: PostgreSQL | SqlLite | MySQL
       
