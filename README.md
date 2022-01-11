@@ -3,7 +3,7 @@
 Here, you can find my solo projects as well as collaborative projects.
 
  - I am Mir Rawshan Ali. I am a Software developer.
- - I have a degree in Bachelor of Science in Software Development 🎓.
+ - I have a Master Degree in Computer Science 🎓.
  
    
  -🖥️ Experienced in:
